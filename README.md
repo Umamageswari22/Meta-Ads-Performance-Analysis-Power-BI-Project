@@ -6,6 +6,10 @@
 
 - This project is designed for Data Analyst / Business Intelligence portfolios and demonstrates strong understanding of ad funnel metrics and dashboard storytelling.
 
+- Project Duration: Feb 2025
+- Domain: Meta-Ads-Performance-Analysis 
+- Tool: Power BI
+
 ## 🧩 Dataset Description
 
 - The dataset is organized in a Star Schema format and contains four tables:
