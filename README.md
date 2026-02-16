@@ -96,7 +96,7 @@
 ## 📽 Project Demo
 
 # 👉 Screen Recording included in this repository to showcase:
-
+- a href
 - Data model
 - Dashboard navigation
 - KPI explanations
@@ -109,3 +109,15 @@
 - Performance Marketers
 - Business Teams
 - to optimize ad spend and improve targeting strategies.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+## 👨‍💻 Author
+# UMA MAGESWARI V
+- Data Analytics & Business Intelligence Enthusiast
+
+- 🔗 [GitHub Profile]:https://github.com/Umamageswari22
+- 💼 [LinkedIn Profile]: https://www.linkedin.com/in/uma-mageswari-v-28a796370
+
+
+-⭐ If you like this project, give it a star on GitHub!
